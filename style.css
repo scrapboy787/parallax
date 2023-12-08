@@ -20,15 +20,15 @@ scroll = normal
 background-attachment: fixed;
 }
 .pimg1{
-    background-image: url(img/Morihei\ Ueshiba.jpg);
+    background-image: url(Morihei\ Ueshiba.jpg);
     min-height: 100%;
 }
 .pimg2{
-    background-image: url(img/roy\ suenaka.jpg);
+    background-image: url(roy\ suenaka.jpg);
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(img/gene\ cross.jpg);
+    background-image: url(gene\ cross.jpg);
     min-height: 400px;
 }
 .section{
